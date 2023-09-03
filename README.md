@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DaggerXIII
 - 👀 I’m interested in ...KALI LINUX
-- 🌱 I’m currently learning ...Prgrraming 
-- 💞️ I’m looking to collaborate on ...Progrraming
+- 🌱 I’m currently learning ...Programing 
+- 💞️ I’m looking to collaborate on ...Programing
 - 📫 How to reach me ...
 
 <!---
